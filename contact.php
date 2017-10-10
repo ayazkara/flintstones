@@ -11,7 +11,7 @@
               <h4 class="title-section mt-30"><span class="font-bold"><?php echo $dil["iletisim"];?></span></h4>
               <div class="cws_divider mb-25 mt-5"></div>
               <ul class="icon">
-                <li> <a href="#">flintstone@example.commmm<i class="flaticon-suntour-email"></i></a></li>
+                <li> <a href="#">flintstone@example.com<i class="flaticon-suntour-email"></i></a></li>
                 <li> <a href="#">(000)-000-0000<i class="flaticon-suntour-phone"></i></a></li>
                 <li> <a href="#">Göreme / Nevşehir<i class="flaticon-suntour-map"></i></a></li>
               </ul>
