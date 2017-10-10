@@ -70,10 +70,13 @@
 							<ul class="list-unstyled">
 								<li class="divider"></li>
 								<li>
-									<a role="menuitem" tabindex="-1" href="pages-user-profile.html"><i class="fa fa-user"></i>Profil</a>
+									<a role="menuitem" tabindex="-1" href="../index.php" target="_blank"><i class="fa fa-home"></i>Flintstones Travel</a>
 								</li>
 								<li>
-									<a role="menuitem" tabindex="-1" href="pages-signin.html"><i class="fa fa-power-off"></i>Çıkış</a>
+									<a role="menuitem" tabindex="-1" href="profil.php"><i class="fa fa-user"></i>Profil</a>
+								</li>
+								<li>
+									<a role="menuitem" tabindex="-1" href="#"><i class="fa fa-power-off"></i>Çıkış</a>
 								</li>
 							</ul>
 						</div>
@@ -103,13 +106,25 @@
 									<li>
 										<a href="index.php">
 											<i class="fa fa-home" aria-hidden="true"></i>
-											<span>Anasayfa</span>
+											<span>Turlar</span>
 										</a>
 									</li>
 									<li>
-										<a href="turlar.php">
-											<i class="fa fa-tasks" aria-hidden="true"></i>
-											<span>Turlar</span>
+										<a href="gallery.php">
+											<i class="fa fa-cloud-upload" aria-hidden="true"></i>
+											<span>Galeri</span>
+										</a>
+									</li>
+									<li>
+										<a href="contact.php">
+											<i class="fa fa-phone" aria-hidden="true"></i>
+											<span>İletişim</span>
+										</a>
+									</li>
+									<li>
+										<a href="mail.php">
+											<i class="fa fa-envelope" aria-hidden="true"></i>
+											<span>Mail</span>
 										</a>
 									</li>
 								</ul>

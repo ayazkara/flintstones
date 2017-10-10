@@ -3,7 +3,7 @@
 ?>
 <section role="main" class="content-body">
   <header class="page-header">
-    <h2>Turlar</h2>
+    <h2>İletişim</h2>
 
   </header>
 <?php

@@ -4,7 +4,7 @@
 
 				<section role="main" class="content-body">
 					<header class="page-header">
-						<h2>Anasayfa</h2>
+						<h2>Turlar</h2>
 
 					</header>
 
