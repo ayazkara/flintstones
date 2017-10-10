@@ -9,7 +9,7 @@
             </div>
             <p class="color-g2 mt-10">
 			<div class="top-left-wrap font-3">
-                <div class="mail-top"><a href="mailto:support.flintstone@example.com"> <i class="flaticon-suntour-email"></i> suntour@example.com</a></div>
+                <div class="mail-top"><a href="mailto:support.flintstone@example.comm"> <i class="flaticon-suntour-email"></i> suntour@example.com</a></div>
                 <div class="tel-top"><a href="tel:(000)-000-0000"> <i class="flaticon-suntour-phone"></i> (000)-000-0000</a></div>
               </div>
 			</p><!-- social-->
@@ -34,7 +34,7 @@
         </div>
       </div>
       <!-- copyright-->
-      <div class="copyright"> 
+      <div class="copyright">
         <div class="container">
           <div class="row">
             <div class="col-sm-6">
@@ -48,7 +48,7 @@
     </footer>
     <div id="scroll-top"><i class="fa fa-angle-up"></i></div>
     <!-- ! footer-->
-   
+
     <script src="https://www.youtube.com/player_api"></script>
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery-ui.min.js"></script>
