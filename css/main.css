@@ -4,7 +4,7 @@
     Template URI: http://themeforest.net/user/CreativeWS/portfolio
     Description: Creative Travel Agency HTML Template
     Author URI: http://creaws.com
-    
+
 --------------------------------------------------------------------------------
 -- GENERAL
     --Common Style
@@ -1203,7 +1203,7 @@ header .main-nav.transparent.bg-80 {
 }
 
 header .main-nav.transparent img:not(.logo-white) {
-    display: none;
+    
 }
 
 header .transparent .inner-nav > ul > li > a.active,
@@ -4927,7 +4927,7 @@ nav .inner-nav.mobile_nav.opened ul {
 
 .recom-item .recom-item-body .blog-title {
     margin-top: 0;
-    text-transform: uppercase;
+
     margin-bottom: 0;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;

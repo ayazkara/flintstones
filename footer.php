@@ -5,7 +5,7 @@
           <!-- widget footer-->
           <div class="col-md-6 col-sm-12 mb-sm-30">
             <div class="logo-soc clearfix">
-              <div class="footer-logo"><a href="#"><img src="img/logoo.png"  alt></a></div>
+              <div class="footer-logo"><a href="index.php"><img src="img/logoo.png"  alt></a></div>
             </div>
             <p class="color-g2 mt-10">
 			<div class="top-left-wrap font-3">

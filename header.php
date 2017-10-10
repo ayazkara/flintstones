@@ -1,4 +1,4 @@
-<?php 
+<?php
 	session_start();
 	if(!isset($_SESSION["dil"])){
 		include("dil/tr.php");
@@ -30,14 +30,14 @@
   <body>
     <!-- header page-->
     <header>
-		<?php 
+		<?php
 			$url=explode("/",$_SERVER['REQUEST_URI']);
 		?>
       <!-- Navigation panel-->
       <nav class="main-nav <?php if ($url[2]=="index.php"){ echo "transparent";}?> stick-fixed">
         <div class="full-wrapper relative clearfix container">
           <!-- Logo ( * your text or image into link tag *)-->
-          <div class="nav-logo-wrap local-scroll"><a href="#" class="logo"><img src="img/<?php if ($url[2]=="index.php"){ echo "logoo.png";}else{echo "logooo1.png";}?>"  alt class="logo-white"></a></div>
+          <div class="nav-logo-wrap local-scroll"><a href="index.php" class="logo"><img src="img/<?php if ($url[2]=="index.php"){ echo "logoo.png";}else{echo "logooo1.png";}?>"  alt class="logo-white"></a></div>
           <!-- Main Menu-->
           <div class="inner-nav desktop-nav">
             <ul class="clearlist">
@@ -46,15 +46,15 @@
               <!-- End Item With Sub-->
               <li class="slash">/</li>
               <!-- Item With Sub-->
-              <li><a href="#" class="mn-has-sub"><?php echo $dil["turlar"];?> <i class="fa fa-angle-down button_open"></i></a>
+              <li><a href="tour.php" class="mn-has-sub"><?php echo $dil["turlar"];?> <i class="fa fa-angle-down button_open"></i></a>
                 <!-- Sub-->
                 <ul class="mn-sub">
                   <li><a href="#">Cultural Tour</a></li>
                   <li><a href="#">Half Day Cappodocia Tour</a></li>
                   <li><a href="#">Blue Tour (Soğanlı Tour)</a></li>
-				  <li><a href="#">Rose Valley Tour</a></li>
-				  <li><a href="#">Nort Tour (Red Tour)</a></li>
-				  <li><a href="#">Sourt Tour (Green Tour)</a></li>
+				  				<li><a href="#">Rose Valley Tour</a></li>
+				  				<li><a href="#">Nort Tour (Red Tour)</a></li>
+				  				<li><a href="#">Sourt Tour (Green Tour)</a></li>
                 </ul>
                 <!-- End Sub-->
               </li>
@@ -67,21 +67,27 @@
               <!-- Item With Sub-->
               <!-- End Item With Sub-->
               <!-- Item With Sub-->
-             
+
               <!-- End Item With Sub-->
               <li class="slash">/</li>
               <!-- Item-->
               <li><a href="contact.php"><?php echo $dil["iletisim"];?></a></li>
               <!-- End Item-->
 			  <li class="slash">/</li>
+				<li>
+					<a href="dil.php?dil=tr"><img src="img/tr.png" width="24px" height="24px"></a>
+					<a href="dil.php?dil=en"><img src="img/en.png" width="24px" height="24px"></a>
+				</li>
+				<!--
 			   <li><a href="#" class="mn-has-sub"><?php echo $dil["dilmenu"];?> <i class="fa fa-angle-down button_open"></i></a>
-                <!-- Sub-->
+
                 <ul class="mn-sub">
                   <li><a href="dil.php?dil=tr"><?php echo $dil["trdil"];?></a></li>
                   <li><a href="dil.php?dil=en"><?php echo $dil["endil"];?></a></li>
                 </ul>
-                <!-- End Sub-->
+
               </li>
+						-->
             </ul>
           </div>
           <!-- End Main Menu-->

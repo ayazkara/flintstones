@@ -1,4 +1,4 @@
-<?php 
+<?php
 
  $dil=array(
    "anasayfa" => "Anasayfa",
@@ -15,6 +15,8 @@
    "email" => "E-mail",
    "aciklama" => "Açıklama",
    "gonder" => "Gönder",
-   
+   "kapadokya" => "Kapadokya",
+   "balon" =>"Balon",
+
  )
 ?>

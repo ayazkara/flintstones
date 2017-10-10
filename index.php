@@ -1,4 +1,4 @@
-<?php 
+<?php
  include("header.php");
 ?>
 <div class="content-body">
@@ -29,7 +29,7 @@
           </ul>
         </div>
       </div>
-      
+
       <!-- page section-->
       <section class="page-section pb-0">
         <div class="container">
@@ -53,7 +53,7 @@
                   <p class="info-text"></p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4"></span>Kapadokya </h4><a href="#" class="button"><?php echo $dil["detay"];?></a>
+                  <h4 class="title"><span class="font-4"></span>Kapadokya </h4><a href="tour_detail.php" class="button"><?php echo $dil["detay"];?></a>
                 </div>
               </div>
             </div>
