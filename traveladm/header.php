@@ -80,7 +80,7 @@
 					<div id="userbox" class="userbox">
 						<a href="#" data-toggle="dropdown">
 
-							<div class="profile-info" data-lock-name="John Doe" data-lock-email="johndoe@okler.com">
+							<div class="profile-info" data-lock-name="" data-lock-email="">
 								<span class="name">Ayaz Kara</span>
 								<span class="role">administrator</span>
 							</div>
