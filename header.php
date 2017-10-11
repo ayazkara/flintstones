@@ -46,18 +46,7 @@
               <!-- End Item With Sub-->
               <li class="slash">/</li>
               <!-- Item With Sub-->
-              <li><a href="tour.php" class="mn-has-sub"><?php echo $dil["turlar"];?> <i class="fa fa-angle-down button_open"></i></a>
-                <!-- Sub-->
-                <ul class="mn-sub">
-                  <li><a href="#">Cultural Tour</a></li>
-                  <li><a href="#">Half Day Cappodocia Tour</a></li>
-                  <li><a href="#">Blue Tour (Soğanlı Tour)</a></li>
-				  				<li><a href="#">Rose Valley Tour</a></li>
-				  				<li><a href="#">Nort Tour (Red Tour)</a></li>
-				  				<li><a href="#">Sourt Tour (Green Tour)</a></li>
-                </ul>
-                <!-- End Sub-->
-              </li>
+              <li><a href="tour.php" class="mn-has-sub"><?php echo $dil["turlar"];?> </a></li>
               <!-- End Item With Sub-->
               <li class="slash">/</li>
               <!-- Item With Sub-->
