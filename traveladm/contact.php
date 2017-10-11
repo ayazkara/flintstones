@@ -22,7 +22,7 @@
 						<div class="form-body">
 								<form class="form-horizontal form-bordered" method="POST" action="contact-in.php" >
 									<div class="form-group">
-										<label class="col-md-3 control-label">Telefonn</label>
+										<label class="col-md-3 control-label">Telefon</label>
 										<div class="col-md-6 control-label">
 											<div class="input-group">
 												<span class="input-group-addon">
