@@ -32,6 +32,7 @@
 		<link rel="stylesheet" href="assets/vendor/codemirror/lib/codemirror.css" />
 		<link rel="stylesheet" href="assets/vendor/codemirror/theme/monokai.css" />
 		<link rel="stylesheet" href="assets/vendor/morris/morris.css" />
+		<link rel="stylesheet" href="assets/vendor/isotope/jquery.isotope.css" />
 		<!-- Vendor CSS -->
 		<link rel="stylesheet" href="assets/vendor/bootstrap/css/bootstrap.css" />
 		<link rel="stylesheet" href="assets/vendor/font-awesome/css/font-awesome.css" />
