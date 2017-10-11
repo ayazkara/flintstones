@@ -75,8 +75,8 @@
               <!-- End Item-->
 			  <li class="slash">/</li>
 				<li>
-					<a href="dil.php?dil=tr"><img src="img/tr.png" width="24px" height="24px"></a>
-					<a href="dil.php?dil=en"><img src="img/en.png" width="24px" height="24px"></a>
+					<a href="dil.php?dil=tr&page=<?php echo $url[2];?>"><img src="img/tr.png" width="24px" height="24px"></a>
+					<a href="dil.php?dil=en&page=<?php echo $url[2];?>"><img src="img/en.png" width="24px" height="24px"></a>
 				</li>
 				<!--
 			   <li><a href="#" class="mn-has-sub"><?php echo $dil["dilmenu"];?> <i class="fa fa-angle-down button_open"></i></a>
