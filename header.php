@@ -46,9 +46,7 @@
               <!-- End Item With Sub-->
               <li class="slash">/</li>
               <!-- Item With Sub-->
-              <li><a href="tour.php" class="mn-has-sub"><?php echo $dil["turlar"];?> </a></li>
-              <!-- End Item With Sub-->
-              <li class="slash">/</li>
+            
               <!-- Item With Sub-->
               <li><a href="gallery.php" class="mn-has-sub"><?php echo $dil["galeri"];?></a></li>
               <!-- End Item With Sub-->
