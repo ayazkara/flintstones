@@ -30,73 +30,6 @@
         </div>
       </div>
 
-      <!-- slider info-->
-            <div class="slider-info-wrap clearfix">
-              <div class="slider-info-content">
-                <div class="slider-info-item">
-                  <div class="info-item-media"><img src="pic/kapadokya.jpg"  alt>
-                    <div class="info-item-text">
-                      <div class="info-price font-4"><span>Price</span> $105</div>
-                      <div class="info-temp font-4"><span></span></div>
-                      <p class="info-text">Kapadokyada Müthiş Bir Gün Geçirmek</p>
-                    </div>
-                  </div>
-                  <div class="info-item-content">
-                    <div class="main-title">
-                      <h3 class="title"><span class="font-4">Kapadokya</span> Turları</h3>
-                      <div class="price"><span>$105</span> Price</div><a href="#" class="button">Detay</a>
-                    </div>
-                  </div>
-                </div>
-                <div class="slider-info-item">
-                  <div class="info-item-media"><img src="pic/balon.jpg"  alt>
-                    <div class="info-item-text">
-                      <div class="info-price font-4"><span>Price</span> $55</div>
-                      <div class="info-temp font-4"><span> </span> </div>
-                      <p class="info-text">Kapadokyayının İhtaşamlı Görünüşünü Gök Yüzünden İzlemek</p>
-                    </div>
-                  </div>
-                  <div class="info-item-content">
-                    <div class="main-title">
-                      <h3 class="title"><span class="font-4">Balon</span> Turları</h3>
-                      <div class="price"><span>$55</span> Price</div><a href="#" class="button">Detay</a>
-                    </div>
-                  </div>
-                </div>
-                <div class="slider-info-item">
-                  <div class="info-item-media"><img src="pic/atv.jpg"  alt>
-                    <div class="info-item-text">
-                      <div class="info-price font-4"><span>Price</span> $95</div>
-                      <div class="info-temp font-4"><span></span></div>
-                      <p class="info-text">Kapadokya Müthiş Bir Atv Turu</p>
-                    </div>
-                  </div>
-                  <div class="info-item-content">
-                    <div class="main-title">
-                      <h3 class="title"><span class="font-4">ATV</span> Turları</h3>
-                      <div class="price"><span>$95</span> Price</div><a href="#" class="button">Detay</a>
-                    </div>
-                  </div>
-                </div>
-                <div class="slider-info-item">
-                  <div class="info-item-media"><img src="pic/efes.jpg"  alt>
-                    <div class="info-item-text">
-                      <div class="info-price font-4"><span>Price</span> $80</div>
-                      <div class="info-temp font-4"><span></span></div>
-                      <p class="info-text">Müthiş Bir Antik Kent</p>
-                    </div>
-                  </div>
-                  <div class="info-item-content">
-                    <div class="main-title">
-                      <h3 class="title"><span class="font-4">Efes Antik Kent</span> Turları</h3>
-                      <div class="price"><span>$80</span> Price</div><a href="#" class="button">Detay</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <!-- ! slider-info-->
-
       <!-- page section-->
       <section class="page-section pb-0">
         <div class="container">
@@ -113,17 +46,132 @@
           <div class="features-tours-wrap clearfix">
 
             <div class="features-tours-item">
-              <div class="features-media"><img src="pic/tours/efes.jpg"  alt>
+              <div class="features-media"><img src="pic/tours/cultural.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text">                  </p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Cultural</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/half.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text"></p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Half Day Cappadocia</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/blue.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text">                  </p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Blue (Soğanlı)</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/rose.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text"></p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Rose Valley</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/north.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text"></p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Nort (Red)</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/green.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text"></p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> South (Green)</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/kapuzbasi.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text"></p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Kapuzbaşı Water Fall</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/mevlana.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text">                  </p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Daily Konya Mevlana Museum</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/alacahoyuk.jpg"  alt>
+                <div class="features-info-top">
+                  <div class="info-price font-4"><span> </span> </div>
+                  <div class="info-temp font-4"><span>Price</span> $80</div>
+                  <p class="info-text"></p>
+                </div>
+                <div class="features-info-bot">
+                  <h5 class="title"><span class="font-4">Tour</span> Daily Hattuşaş - Alacahöyük</h5><a href="#" class="button">Detay</a>
+                </div>
+              </div>
+            </div>
+
+            <div class="features-tours-item">
+              <div class="features-media"><img src="pic/tours/pamukkale.jpg"  alt>
                 <div class="features-info-top">
                   <div class="info-price font-4"><span> </span> </div>
                   <div class="info-temp font-4"><span>Price</span> $80</div>
                   <p class="info-text">
-                    Nar Lake (Crater Lake)<br>
-                    Gaziemir Underground City<br>
                   </p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> Cultural</h4><a href="#" class="button">Detay</a>
+                  <h5 class="title"><span class="font-4">Tour</span> Pamukkale</h5><a href="#" class="button">Detay</a>
                 </div>
               </div>
             </div>
@@ -133,98 +181,65 @@
                 <div class="features-info-top">
                   <div class="info-price font-4"><span> </span> </div>
                   <div class="info-temp font-4"><span>Price</span> $80</div>
-                  <p class="info-text">
-                    Uçhisar Castle<br>
-                    Turkish Tradition House In A Fairy Chimney<br>
-                  </p>
+                  <p class="info-text">                  </p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> Half Day Cappadocia</h4><a href="#" class="button">Detay</a>
+                  <h5 class="title"><span class="font-4">Tour</span> Efes Antik Kent</h5><a href="#" class="button">Detay</a>
                 </div>
               </div>
             </div>
 
             <div class="features-tours-item">
-              <div class="features-media"><img src="pic/tours/efes.jpg"  alt>
+              <div class="features-media"><img src="pic/tours/troy.jpg"  alt>
                 <div class="features-info-top">
                   <div class="info-price font-4"><span> </span> </div>
                   <div class="info-temp font-4"><span>Price</span> $80</div>
-                  <p class="info-text">
-                    Mustafa Paşa (Old Greek Village)<br>
-                    Keşlik Monestry<br>
-                  </p>
+                  <p class="info-text">                  </p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> Blue (Soğanlı)</h4><a href="#" class="button">Detay</a>
+                  <h5 class="title"><span class="font-4">Tour</span> Troy</h5><a href="#" class="button">Detay</a>
                 </div>
               </div>
             </div>
 
             <div class="features-tours-item">
-              <div class="features-media"><img src="pic/tours/efes.jpg"  alt>
+              <div class="features-media"><img src="pic/tours/anzac.jpg"  alt>
                 <div class="features-info-top">
                   <div class="info-price font-4"><span> </span> </div>
                   <div class="info-temp font-4"><span>Price</span> $80</div>
-                  <p class="info-text">
-                    Red / Rose Valley hiking <br>
-                    Çavuşin Old Village (Photo Break)<br>
-                  </p>
+                  <p class="info-text">                  </p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> Rose Valley</h4><a href="#" class="button">Detay</a>
+                  <h5 class="title"><span class="font-4">Tour</span> Anzac</h5><a href="#" class="button">Detay</a>
                 </div>
               </div>
             </div>
 
             <div class="features-tours-item">
-              <div class="features-media"><img src="pic/tours/efes.jpg"  alt>
+              <div class="features-media"><img src="pic/tours/nemrut.jpg"  alt>
                 <div class="features-info-top">
                   <div class="info-price font-4"><span> </span> </div>
                   <div class="info-temp font-4"><span>Price</span> $80</div>
-                  <p class="info-text">
-                    Paşabağ(Fairy Chimneys Valley - Monk Valley)<br>
-                    Love Valley (Take a Picture - Photo Break)<br>
-                  </p>
+                  <p class="info-text">                  </p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> Nort (Red)</h4><a href="#" class="button">Detay</a>
+                  <h5 class="title"><span class="font-4">Tour</span> Mount Nemrut</h5><a href="#" class="button">Detay</a>
                 </div>
               </div>
             </div>
 
             <div class="features-tours-item">
-              <div class="features-media"><img src="pic/tours/efes.jpg"  alt>
+              <div class="features-media"><img src="pic/tours/avtivites.jpg"  alt>
                 <div class="features-info-top">
                   <div class="info-price font-4"><span> </span> </div>
                   <div class="info-temp font-4"><span>Price</span> $80</div>
-                  <p class="info-text">
-                    Derinkuyu Underground City<br>
-                    Ihlara Canyon(Hiking 3 Km)<br>
-                  </p>
+                  <p class="info-text"></p>
                 </div>
                 <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> South (Green)</h4><a href="#" class="button">Detay</a>
+                  <h5 class="title"><span class="font-4">Tour</span> Activities</h5><a href="#" class="button">Detay</a>
                 </div>
               </div>
             </div>
-
-            <div class="features-tours-item">
-              <div class="features-media"><img src="pic/tours/efes.jpg"  alt>
-                <div class="features-info-top">
-                  <div class="info-price font-4"><span> </span> </div>
-                  <div class="info-temp font-4"><span>Price</span> $80</div>
-                  <p class="info-text">
-                    Whirling Dervish<br>
-                    Hot Air Ballon<br>
-                  </p>
-                </div>
-                <div class="features-info-bot">
-                  <h4 class="title"><span class="font-4">Tour</span> Activities</h4><a href="#" class="button">Detay</a>
-                </div>
-              </div>
-            </div>
-            
-
 
           </div>
         </div>
